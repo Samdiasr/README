@@ -13,11 +13,6 @@ Atualmente estou aprendendo Linux e Python, com o objetivo de seguir na carreira
 - Aprender mais sobre ferramentas e técnicas de análise de dados.
 - Explorar o mundo da ciência de dados e do aprendizado de máquina.
 
-## 🔗 Links:
-- [LinkedIn](link-do-seu-linkedin)
-- [Twitter](link-do-seu-twitter)
-- [Meu site/blog](link-do-seu-site)
-
 ## 📈 Status:
 - [ ] Em progresso: Aprendendo Linux e Python.
 - [ ] Concluído: Criando pequenos projetos e automações.
